@@ -49,6 +49,11 @@ button:hover {
   font-size: larger;
 }
 
+footer{
+  text-decoration: solid;
+  font-weight: bold;
+}
+
 input[type="range"] {
   width: 200px;
   margin: 10px 0;
